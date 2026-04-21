@@ -51,13 +51,13 @@
       "watchface": false
     },
     "targetPlatforms": [
-	  "emery",
-      "aplite",
+	  "aplite",
       "basalt",
       "chalk",
-	  "diorite"
+	  "diorite",
+	  "emery",
     ],
     "capabilities": []
   },
-  "name": "Notifications"
+  "name": "notifications"
 }
