@@ -1,12 +1,5 @@
-# Outdated
+# Pebble Notification Center (Classic) - Watchapp
 
-This project is old and unmaintained. Maybe you are looking for the [PebbleNotificationCenter2](https://github.com/matejdro/PebbleNotificationCenter2)?
+Watchapp part of the legacy Notification Center for Pebbles. Going to attempt to update this to natively support the screen dimensions of Pebble Time 2. No idea what I'm doing. Should be fun!
 
-PebbleNotificationCenter-Watchapp
-=================================
-
-Watchapp part of the Notification center for Pebble
-
-Phone counterpart (with issue tracker): https://github.com/matejdro/PebbleNotificationCenter-Android    
-Appstore entry: https://apps.getpebble.com/en_US/application/531c8f3646b8f200dd00018d    
-Discussion forums: https://plus.google.com/communities/116982109550451242571    
+Official phone counterpart (no longer maintained): https://github.com/matejdro/PebbleNotificationCenter-Android
