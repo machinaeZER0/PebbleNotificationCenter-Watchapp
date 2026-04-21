@@ -51,6 +51,7 @@
       "watchface": false
     },
     "targetPlatforms": [
+	  "emery",
       "aplite",
       "basalt",
       "chalk",
